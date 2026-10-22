@@ -1,4 +1,5 @@
 {
-  "release": "route3-v1-hub-first",
-  "timestamp": "2026-10-22T09:08:52.041Z"
+  "version": "route3-v3.2",
+  "deployedAt": "2026-10-22T09:57:53.006Z",
+  "commitMessage": "Enforce Route 3 direct 46-URL sitemap, hub 301 redirects, kill /ny/ zombie, DID integration"
 }
